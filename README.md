@@ -14,13 +14,10 @@ This project is a simple library management system built with Java. It features 
 ## Key Features
 
 - **User Interface**: Provides an intuitive graphical interface for managing library data.
-- **Library Management**: Core functionalities for managing book information, including addition, removal, and search.
+- **Library Management**: Core functionalities for managing book information, including addition, removal, adding to favorites and search.
 
 This project demonstrates the use of a model-view architecture to effectively manage and display data in a user-friendly manner.
 
-## Getting Started
-
-1. Clone the repository.
-2. Compile and run the project using a Java IDE or command line.
-3. Interact with the library system through the graphical interface.
-
+## Installation
+```bash
+   git clone https://github.com/OKarpacz/Java-Project.git
